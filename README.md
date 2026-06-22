@@ -1,4 +1,4 @@
-# 你好，我是 Willdom Lee / Hello, I'm Willdom Lee
+# Hello, I'm Willdom Lee
 
 **Focus**: AI 人工智能 | 供应链数字化转型 (AI & Supply Chain Digital Transformation)
 
