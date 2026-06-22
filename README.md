@@ -10,6 +10,8 @@
 
 ### 精选项目 / Featured Projects
 
+*   **[xconf.ai](https://xconf.ai/)**：端到端加密网络配置保险库。
+    *   *A zero-knowledge network vault.*
 *   **[XConfKit](https://github.com/willdom-lee/XConfKit)**：轻量级配置管理平台。
     *   *A lightweight configuration management platform.*
 *   **[iClassQuest](https://iclassquest.com)**：创新型游戏化课堂管理系统。
