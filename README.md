@@ -9,7 +9,8 @@
 ---
 
 ### 精选项目 / Featured Projects
-
+*   **[mindogo.ai](https://mindogo.ai/)**：专为青少年与 AI 探索者设计的交互原理沙盒。
+    *   *An interactive AI sandbox for youth and curious minds.*
 *   **[xconf.ai](https://xconf.ai/)**：端到端加密网络配置保险库。
     *   *E2E ENCRYPTED NETWORK VAULT.*
 *   **[XConfKit](https://github.com/willdom-lee/XConfKit)**：轻量级配置管理平台。
