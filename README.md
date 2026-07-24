@@ -6,8 +6,8 @@
 > 
 > *"Back in my youth as a network engineer chasing CCIE, I always believed 'Technology Shapes Dreams.' Meeting AI in midlife, that same passionate heart remains unchanged."*
 
----
 
+---
 ### 精选项目 / Featured Projects
 *   **[mindogo.ai](https://mindogo.ai/)**：专为青少年与 AI 探索者设计的交互原理沙盒。
     *   *An interactive AI sandbox for youth and curious minds.*
@@ -17,7 +17,6 @@
     *   *A lightweight configuration management platform.*
 *   **[iClassQuest.com](https://iclassquest.com)**：创新型游戏化课堂管理系统。
     *   *An innovative, gamified classroom management system.*
-
 ---
 
 ### 思考沉淀 / Thoughts & Insights
