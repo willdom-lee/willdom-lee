@@ -15,7 +15,7 @@
     *   *E2E ENCRYPTED NETWORK VAULT.*
 *   **[XConfKit](https://github.com/willdom-lee/XConfKit)**：轻量级配置管理平台。
     *   *A lightweight configuration management platform.*
-*   **[iClassQuest](https://iclassquest.com)**：创新型游戏化课堂管理系统。
+*   **[iClassQuest.com](https://iclassquest.com)**：创新型游戏化课堂管理系统。
     *   *An innovative, gamified classroom management system.*
 
 ---
