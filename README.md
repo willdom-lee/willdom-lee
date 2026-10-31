@@ -30,19 +30,19 @@
 
 [Website](https://willdomlee.com/en/) · [Writing](https://willdomlee.com/en/writing) · [X @willdom_lee](https://x.com/willdom_lee)
 
-> In my younger days, studying network engineering and working toward CCIE, I kept saying, “Technology shapes dreams.” Discovering AI in midlife, I still have that same spirit.
+> When I was younger, I was deep into networking and chasing my CCIE. I was a little cocky, and I believed technology could turn dreams into reality. Now I'm exploring AI in midlife, with the same excitement I had back then.
 
 ### Public Projects
 
-- **[Mindogo](https://mindogo.ai/)** — Interactive experiments that help young learners and curious minds understand how AI works.
-- **[XConf](https://xconf.ai/)** — An end-to-end encrypted vault for network configurations.
-- **[XConfKit](https://github.com/willdom-lee/XConfKit)** — A network configuration backup and management tool with automated backups and scheduling. Currently a demo project.
-- **[iClassQuest](https://iclassquest.com/)** — A gamified classroom management tool that tracks students’ effort and growth.
+- **[Mindogo](https://mindogo.ai/)** — Interactive experiments for young people and anyone curious about how AI works.
+- **[XConf](https://xconf.ai/)** — A vault for network configurations, with end-to-end encryption.
+- **[XConfKit](https://github.com/willdom-lee/XConfKit)** — A tool to back up and manage network device configurations, with scheduled backups. Still at the demo stage.
+- **[iClassQuest](https://iclassquest.com/)** — A classroom management tool that uses game elements to make students’ effort and progress visible.
 
 ### Writing & contact
 
-On [willdomlee.com](https://willdomlee.com/en/writing), I write about hands-on AI work, what I am learning, and how technology relates to organizations and education. Selected articles are available to read in full.
+I write about what I'm trying with AI, what I'm learning along the way, and my thoughts on organizations and education. You can read a selection of my articles in full on [my website](https://willdomlee.com/en/writing).
 
-You can also find me on [X](https://x.com/willdom_lee). Some articles were first published in Chinese on my WeChat official account, 南山独唱团.
+I'm also on [X](https://x.com/willdom_lee). Some of these articles first appeared on my WeChat account, 南山独唱团.
 
 </details>
