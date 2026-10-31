@@ -6,7 +6,7 @@
 
 > 曾经年少轻狂，学网络工程、搞 CCIE，天天嚷着“技术成就梦想”。人到中年遇到 AI，赤子之心，依然不变。
 
-## 项目
+## 公开项目
 
 - **[Mindogo](https://mindogo.ai/)** — 通过互动实验理解 AI 原理，面向青少年与 AI 探索者。
 - **[XConf](https://xconf.ai/)** — 端到端加密的网络配置保险库。
@@ -32,7 +32,7 @@
 
 > In my younger days, studying network engineering and working toward CCIE, I kept saying, “Technology shapes dreams.” Discovering AI in midlife, I still have that same spirit.
 
-### Projects
+### Public Projects
 
 - **[Mindogo](https://mindogo.ai/)** — Interactive experiments that help young learners and curious minds understand how AI works.
 - **[XConf](https://xconf.ai/)** — An end-to-end encrypted vault for network configurations.
